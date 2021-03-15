@@ -1,3 +1,7 @@
 laboratorio 0:
 
 agregando codigos...
+
+eliminando codigos innecesarios...
+
+
