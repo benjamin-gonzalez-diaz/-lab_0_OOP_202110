@@ -1,0 +1,29 @@
+C:\Users\56984\Desktop\poo\BrickBreack\BrickBreack\bin\Debug\BrickBreack.exe.config
+C:\Users\56984\Desktop\poo\BrickBreack\BrickBreack\bin\Debug\BrickBreack.exe
+C:\Users\56984\Desktop\poo\BrickBreack\BrickBreack\bin\Debug\BrickBreack.pdb
+C:\Users\56984\Desktop\poo\BrickBreack\BrickBreack\obj\Debug\BrickBreack.csprojAssemblyReference.cache
+C:\Users\56984\Desktop\poo\BrickBreack\BrickBreack\obj\Debug\BrickBreack.Form1.resources
+C:\Users\56984\Desktop\poo\BrickBreack\BrickBreack\obj\Debug\BrickBreack.JuegoBrickBreack.resources
+C:\Users\56984\Desktop\poo\BrickBreack\BrickBreack\obj\Debug\BrickBreack.Properties.Resources.resources
+C:\Users\56984\Desktop\poo\BrickBreack\BrickBreack\obj\Debug\BrickBreack.csproj.GenerateResource.cache
+C:\Users\56984\Desktop\poo\BrickBreack\BrickBreack\obj\Debug\BrickBreack.csproj.CoreCompileInputs.cache
+C:\Users\56984\Desktop\poo\BrickBreack\BrickBreack\obj\Debug\BrickBreack.exe
+C:\Users\56984\Desktop\poo\BrickBreack\BrickBreack\obj\Debug\BrickBreack.pdb
+C:\Users\56984\Desktop\poo\BrickBreack\BrickBreack\obj\Debug\BrickBreack.puntajeYguardado.resources
+C:\Users\56984\Desktop\poo\BrickBreack\BrickBreack\obj\Debug\BrickBreack.JuegoBreakout.resources
+C:\Users\56984\Desktop\poo\BrickBreack\BrickBreack\obj\Debug\BrickBreack.Niveles.resources
+C:\Users\56984\Desktop\poo\BrickBreack\BrickBreack\obj\Debug\BrickBreack.nivel_2.resources
+C:\Users\56984\Desktop\Universidad 2021-01\Programacion orientada a objeto\laboratorios\lab0\BrickBreack\BrickBreack\bin\Debug\BrickBreack.exe.config
+C:\Users\56984\Desktop\Universidad 2021-01\Programacion orientada a objeto\laboratorios\lab0\BrickBreack\BrickBreack\bin\Debug\BrickBreack.exe
+C:\Users\56984\Desktop\Universidad 2021-01\Programacion orientada a objeto\laboratorios\lab0\BrickBreack\BrickBreack\bin\Debug\BrickBreack.pdb
+C:\Users\56984\Desktop\Universidad 2021-01\Programacion orientada a objeto\laboratorios\lab0\BrickBreack\BrickBreack\obj\Debug\BrickBreack.csprojAssemblyReference.cache
+C:\Users\56984\Desktop\Universidad 2021-01\Programacion orientada a objeto\laboratorios\lab0\BrickBreack\BrickBreack\obj\Debug\BrickBreack.Form1.resources
+C:\Users\56984\Desktop\Universidad 2021-01\Programacion orientada a objeto\laboratorios\lab0\BrickBreack\BrickBreack\obj\Debug\BrickBreack.JuegoBreakout.resources
+C:\Users\56984\Desktop\Universidad 2021-01\Programacion orientada a objeto\laboratorios\lab0\BrickBreack\BrickBreack\obj\Debug\BrickBreack.JuegoBrickBreack.resources
+C:\Users\56984\Desktop\Universidad 2021-01\Programacion orientada a objeto\laboratorios\lab0\BrickBreack\BrickBreack\obj\Debug\BrickBreack.Niveles.resources
+C:\Users\56984\Desktop\Universidad 2021-01\Programacion orientada a objeto\laboratorios\lab0\BrickBreack\BrickBreack\obj\Debug\BrickBreack.Properties.Resources.resources
+C:\Users\56984\Desktop\Universidad 2021-01\Programacion orientada a objeto\laboratorios\lab0\BrickBreack\BrickBreack\obj\Debug\BrickBreack.puntajeYguardado.resources
+C:\Users\56984\Desktop\Universidad 2021-01\Programacion orientada a objeto\laboratorios\lab0\BrickBreack\BrickBreack\obj\Debug\BrickBreack.csproj.GenerateResource.cache
+C:\Users\56984\Desktop\Universidad 2021-01\Programacion orientada a objeto\laboratorios\lab0\BrickBreack\BrickBreack\obj\Debug\BrickBreack.csproj.CoreCompileInputs.cache
+C:\Users\56984\Desktop\Universidad 2021-01\Programacion orientada a objeto\laboratorios\lab0\BrickBreack\BrickBreack\obj\Debug\BrickBreack.exe
+C:\Users\56984\Desktop\Universidad 2021-01\Programacion orientada a objeto\laboratorios\lab0\BrickBreack\BrickBreack\obj\Debug\BrickBreack.pdb
